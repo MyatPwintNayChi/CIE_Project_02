@@ -1,5 +1,8 @@
 # Multi-Tier Highly Available AWS VPC Architecture
 
+## Architecture Summary
+![Architecture Overview](CIE_Session07_Diagram.png)
+
 This repository documents the step-by-step deployment of a secure, highly available, multi-tier web application architecture in AWS (`ap-southeast-1`).
 
 ---
